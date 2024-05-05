@@ -1,0 +1,5 @@
+.idea
+/venv/
+/task.md
+/tests/.coverage
+/.coverage
